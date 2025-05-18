@@ -1,6 +1,6 @@
 # Java Data Structures
 ## My lates work showcasing efficient algorithm development for searching, sorting, and text compression.
-### Some of the examples presented from the work developed based on fundamental data structures for information processing, including lists, stacks, queues, trees, and graphs. Includes relevant concepts such as: 
+### Some of the examples presented from my coding developed based on fundamental data structures for information processing, including lists, stacks, queues, trees, and graphs. Includes relevant concepts such as: 
 
 + Recursion and recursive backtracking.
 + Sorting and algorithm analysis.
